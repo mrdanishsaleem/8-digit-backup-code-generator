@@ -1,0 +1,12 @@
+{
+  "name": "8-digit-backup-code-generator",
+  "version": "1.0.0",
+  "description": "This Node.js script generates all possible 8-digit backup codes (from `00000000` to `99999999`) and writes them to a text file in manageable batches to avoid excessive memory usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
